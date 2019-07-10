@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MVVM</string>
+    <string name="item_deleted">Item is deleted</string>
+    <string name="undo_txt">UNDO</string>
+    <string name="task_cannot_save">Task not saved. Title cannot be empty.</string>
+    <string name="sure_delete_task_txt">Are you sure to delete this task?</string>
 </resources>
